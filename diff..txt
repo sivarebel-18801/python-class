@@ -1,0 +1,20 @@
+*"list":
+1.it is non homogeneous which stores the elements in single row and mulitiple columns.
+2.it can available in '[]'.
+3.it's allows duplication.
+4.it is mutable.
+5.it is a ordered and indexing.
+
+*"tuple":
+1. it is a non homogeneous which stores the elements in single row and mulitiple columns.
+2.it can available in '()'.
+3.it's allows duplication.
+4.it is a immutable.
+5.it is a ordered and indexing.
+
+*"set":
+1.it is a non homogeneous but stores in single row.
+2.it can available in {}.
+3.it can't allows duplication.
+4.it is a mutable.
+5.it can be unordered.
