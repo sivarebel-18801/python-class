@@ -1,0 +1,10 @@
+print(hex(9))
+print(oct(25))
+print(bytearray(29))
+print(bytes(54))
+print(callable(33))
+print(classmethod(24))
+a='siva'
+b='siva'
+print(locals())
+print(next('siva'))
