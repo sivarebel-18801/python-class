@@ -63,10 +63,20 @@ for i in range(1,b+1):
             print(user_points)
     else:
         print('invalid')
-print('Total turns:'b)
+print('total turns:',b)
 print('user wins:',user_points)
 print('system wins:',system_points)
 print('TIE:',TIE_points)
+if user_points>system_points:
+    print("user wins the Game")
+elif user_points==system_points:
+    print("Game to be TIE")
+elif TIE_points>system_points:
+    print("Game to be TIE")
+elif TIE_points>user_points:
+    print("Game to be TIE")
+else:
+    print("system wins the Game")
 
 
 
